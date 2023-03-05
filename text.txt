@@ -1,0 +1,6 @@
+client -> will create the prove for a particular name , as we have done in case of the Merkle Tree
+
+
+
+hardcode the  market tree root we get after creating one using 1000names in server
+while making request in client side we create a proof using the data , we send that object to the server  , server the will verify data given by us then check whetet to send gift or not 
